@@ -1,0 +1,1 @@
+import{a as t,a0 as a,o as s,c as o,F as n}from"./entry.f14e2a09.js";const r={id:"app",class:""},p=t({__name:"margindeposit",setup(c){return a({title:"出金入金帳務",meta:[{name:"description",content:"凱基專區"}],bodyAttrs:{}}),(e,d)=>(s(),o("div",r,[n(e.$slots,"default")]))}});export{p as default};

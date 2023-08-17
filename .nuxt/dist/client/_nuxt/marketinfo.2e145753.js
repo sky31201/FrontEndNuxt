@@ -1,0 +1,1 @@
+import{a0 as e,c as t,o as a,e as o}from"./entry.f14e2a09.js";const s={class:""},n=o("h1",null,"marketInfo Page",-1),c=[n],d={__name:"marketinfo",setup(_){return e({title:"凱基專區市場資訊",meta:[{name:"description",content:"凱基專區市場資訊"}]}),(r,i)=>(a(),t("div",s,c))}};export{d as default};

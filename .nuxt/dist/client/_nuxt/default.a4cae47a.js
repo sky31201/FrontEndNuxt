@@ -1,0 +1,1 @@
+import{a as t,a0 as o,o as a,c as s,F as n}from"./entry.f14e2a09.js";const r={id:"app"},i=t({__name:"default",setup(d){return o({title:"offshoreBond",meta:[{name:"description",content:"凱基專區"}],bodyAttrs:{}}),(e,c)=>(a(),s("div",r,[n(e.$slots,"default")]))}});export{i as default};

@@ -1,0 +1,10 @@
+<svg id="icon_arrow_open" data-name="icon/arrow/open" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="7" viewBox="0 0 14 7">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_21" data-name="Rectangle 21" width="7" height="14" fill="none" stroke="#04327a" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="icon_arrow_right" data-name="icon/arrow/right" transform="translate(14) rotate(90)" clip-path="url(#clip-path)">
+    <path id="Path_17" data-name="Path 17" d="M.75,13.4,6.515,7.073.75.75" transform="translate(-0.132 -0.073)" fill="none" stroke="#04327a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>

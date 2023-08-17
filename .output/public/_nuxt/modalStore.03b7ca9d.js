@@ -1,0 +1,1 @@
+import{d as a,r as s}from"./entry.f14e2a09.js";var e=(t=>(t[t.Default=-1]="Default",t[t.ChuRuJin=0]="ChuRuJin",t))(e||{});const u=a("modalStore",()=>{const t=s({isShowModal:!1,title:"",content:"",showButton:!1,modalType:e.Default});return{setModalShow:o=>{t.value.isShowModal=o},modalData:t}});export{e as M,u};

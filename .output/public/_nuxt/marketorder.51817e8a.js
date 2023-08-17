@@ -1,0 +1,1 @@
+import{a0 as e,c as t,o as a,e as o}from"./entry.f14e2a09.js";const s={class:""},r=o("h1",null,"marketorder Page",-1),c=[r],m={__name:"marketorder",setup(n){return e({title:"凱基專區交易委託查詢",meta:[{name:"description",content:"凱基專區交易委託查詢"}]}),(_,d)=>(a(),t("div",s,c))}};export{m as default};

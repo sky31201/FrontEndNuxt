@@ -1,0 +1,1 @@
+import{a0 as e,c as t,o as a,e as c}from"./entry.f14e2a09.js";const o={class:""},s=c("h1",null,"account Page",-1),n=[s],l={__name:"account",setup(_){return e({title:"凱基專區帳務查詢",meta:[{name:"description",content:"凱基專區帳務查詢"}]}),(r,i)=>(a(),t("div",o,n))}};export{l as default};
